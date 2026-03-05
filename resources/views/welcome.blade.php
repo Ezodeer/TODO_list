@@ -51,19 +51,11 @@
 <body>
 
     <div class="container">
-    <h1>
-        @php
-            $images = ['./hamster.jpg', './mascot.jpg'];
-            $randomImage = $images[rand(0, 1)];
-        @endphp
         
-        <img src="{{ $randomImage }}" alt="Mascot" style="max-width: 300px; height: auto;">
-    </h1>
-    
-    <a href="{{ route('tasks.index') }}" class="start-btn">
-        TODOリストを使う
-    </a>
-</div>
+        <a href="{{ route('tasks.index') }}" class="start-btn">
+            TODOリストを使う
+        </a>
+    </div>
 
 </body>
 </html>
