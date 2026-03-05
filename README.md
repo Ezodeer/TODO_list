@@ -8,4 +8,4 @@ laravelを使用したカレンダー機能付きのTODOリストです。
    ・日付のミスを防ぐためにその場でエラーの警告を行う  
    ・バックアップと復元を行うCSVの作成とインポート・エクスポート機能  
    ・CRUD（作成、読み込み、更新、削除）を一通り使えるようにすること  
- ・使用技術：PHP 8.x, Laravel 10.x/11.x, FullCalendar.js  
+ ・使用技術：PHP 8, Laravel 12, FullCalendar.js SQLite   
