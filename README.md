@@ -28,10 +28,10 @@ PC操作に詳しくない人でも、その場ですぐに使いこなせるこ
 
 
 ## 🛠 使用技術
-* **Backend:** PHP 8.x / Laravel 10.x (or 11.x)
+* **Backend:** PHP 8 / Laravel 12
 * **Frontend:** Bladeテンプレート / CSS3 / HTML5
 * **Library:** FullCalendar.js
-* **Database:** SQLite (or MySQL)
+* **Database:** SQLite
 
 ## 💻 開発環境の構築手順
 このプロジェクトを手元で動かすための手順です。
