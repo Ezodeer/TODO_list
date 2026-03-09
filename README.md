@@ -38,10 +38,10 @@ PC操作に詳しくない人でも、その場ですぐに使いこなせるこ
 
 ```bash
 # 1. リポジトリのクローン
-git clone [https://github.com/あなたのユーザー名/cultural-festival-todo.git](https://github.com/あなたのユーザー名/cultural-festival-todo.git)
+git clone [https://github.com/username/todo-app.git]
 
 # 2. ディレクトリへ移動
-cd cultural-festival-todo
+cd todo-app
 
 # 3. ライブラリのインストール
 composer install
