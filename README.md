@@ -38,10 +38,10 @@ PC操作に詳しくない人でも、その場ですぐに使いこなせるこ
 
 ```bash
 # 1. リポジトリのクローン
-git clone [https://github.com/username/todo-app.git]
+git clone [https://github.com/Ezodeer/TODO_list.git]
 
 # 2. ディレクトリへ移動
-cd todo-app
+cd TODO_list
 
 # 3. ライブラリのインストール
 composer install
